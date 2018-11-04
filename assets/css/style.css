@@ -28,7 +28,7 @@
 }
 
 body {
-    background-image: url("../images/wallpaper2.jpg");
+    background-image: url("../images/funky-lines.png");
 }
 
 .headfont {
@@ -96,7 +96,7 @@ header {
 }
 
 .connect {
-    float: left;
+    float: right;
 }
 
 .connectLinks li {
